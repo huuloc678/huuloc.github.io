@@ -68,8 +68,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "modified": "2025-02-28T14:18:18.977Z",
-    "publishEditFolder": true
+    "modified": "2025-02-28T14:18:18.977Z"
   },
   "pages": {
     "index.html": {
